@@ -1,0 +1,15 @@
+penghasilan,pekerjaan,sosial,status_rumah,layak_kredit
+rendah,ASN,buruk,kontrak,tidak layak
+tinggi,swasta,baik,HM,layak
+rendah,pengusaha,buruk,HM,tidak layak
+rendah,pengusaha,baik,kontrak,layak
+sedang,swasta,baik,kontrak,tidak layak
+rendah,swasta,baik,HM,layak
+rendah,ASN,buruk,HM,tidak layak
+sedang,pengusaha,buruk,HM,layak
+sedang,swasta,baik,HM,layak
+sedang,pengusaha,buruk,kontrak,tidak layak
+sedang,pengusaha,baik,kontrak,layak
+tinggi,ASN,buruk,HM,layak
+tinggi,pengusaha,buruk,kontrak,layak
+tinggi,ASN,baik,HM,layak
